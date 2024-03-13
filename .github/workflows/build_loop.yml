@@ -42,7 +42,6 @@ jobs:
           dexcom_sage \
           high_carb_limit \
           no_auth \
-          now_line \
           lnl_icon \
           customtypeone_looppatches \
           2002 \
