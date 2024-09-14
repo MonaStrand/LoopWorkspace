@@ -263,7 +263,7 @@ jobs:
           # Submodule Loop patches:
           # Template for customizing submodule Loop (changes Loop app name to "CustomLoop")
           # Remove the "#" sign from the beginning of the line below to activate:
-          https://github.com/MonaStrand/Loop/commit/41d6eb28a7d35a760fa2155e16b32a70ef784a02.patch | git apply --directory=Loop -v --whitespace=fix
+          https://github.com/MonaStrand/Loop/commit/361fdb006a16bb0b42d07a8775976704fef7bf57.patch | git apply --directory=Loop -v --whitespace=fix
 
           # Submodule LoopKit patches:
           # General template for customizing submodule LoopKit 
